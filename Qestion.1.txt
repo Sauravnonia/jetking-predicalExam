@@ -1,0 +1,3 @@
+Q.1 How tp insert an image in Html.?
+ans=The HTML<img> tag is used to embed an image in a web page. Image are not techinicaly inserted into a web page;image are linked to web page; The <img> tag creates a 
+holding space for the refrecned image.The <img>tage is empty,it contains attribues only and does have a closing tag.
